@@ -83,4 +83,3 @@ and sockets.
 
 ---
 
-_Part of the workspace alongside Foliofy, SyncScribe, Algoscope, ResumeIQ and Velora._

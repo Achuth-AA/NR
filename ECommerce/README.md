@@ -69,4 +69,3 @@ npm run preview
 
 ---
 
-_Part of the workspace alongside Foliofy, SyncScribe, Algoscope, ResumeIQ and Lumina Chat._

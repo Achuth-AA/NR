@@ -80,4 +80,3 @@ built app from Flask at `:5000`.
 
 ---
 
-_Part of the workspace alongside Foliofy, SyncScribe, Algoscope, Lumina Chat and Velora._

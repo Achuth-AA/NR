@@ -108,4 +108,3 @@ built app from Flask at `:5002`.
 
 ---
 
-_Part of the workspace alongside Foliofy, Algoscope, ResumeIQ, Lumina Chat and Velora._
